@@ -1,0 +1,33 @@
+{
+  "name": "need-uuid-utils",
+  "version": "1.0.0",
+  "description": "A collection of utilities for generating UUIDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<repository_url>"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "nanoid": "^3.1.16",
+    "curryd224-uuid-utils": "1.1.4",
+    "celestial-rush-utils": "1.0.0",
+    "tedscreaming-text-crypto": "1.1.4",
+    "kiranstephen65-quote": "1.1.4",
+    "vadimtk1-array": "1.1.4",
+    "cosmic-tools-urge": "1.0.0",
+    "ringcosmic-horizons": "1.0.0",
+    "gain-quote": "1.0.0",
+    "peer-array-se": "1.0.0",
+    "smart-helpers-love": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "<repository_url>/issues"
+  },
+  "homepage": "<repository_url>#readme"
+}
